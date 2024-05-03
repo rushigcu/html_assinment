@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<head>
+    <title> list tag </title>
+</head>
+
+<body>
+    <ul>
+        <li> pizza </li>
+        <li> burger </li>
+        <li> sandwich </li>
+        <li> pasta </li>
+        <ul>
+            <li> cheese </li>
+            <li> gobi </li>
+            <li> panipuri </li>
+            <li> kachori </li>
+        </ul>
+    </ul>
+    <ol type = "1">
+        <li> pizza </li>
+        <li> burger </li>
+        <li> gobi </li>
+        <li> kachori </li>
+    </ol>
+    <li> burger </li>
+    <li> samosa </li>
+</body>
+gyy
